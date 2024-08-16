@@ -12,7 +12,7 @@ Repository Structure:
 
 ## Installation
 
-1. Clone the repository: ```git clone https://github.com/eliaashraf/In-context-learning```
+1. Clone the repository: ```git clone https://github.com/eliaashraf/In-context-learning.git```
 2. Install required libraries: ```pip install -r requirements.txt```
 3. Run time fine tuning script: `python fine_tuning.py`
 4. Run the AK Extraction script: `python incontext_learning.py`
