@@ -4,7 +4,7 @@ from datasets import Dataset
 from transformers import GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArguments, DataCollatorForLanguageModeling
 
 # Load the dataset from JSON file
-with open('email_dataset.json', 'r') as file:
+with open('data/email_dataset.json', 'r') as file:
     data = json.load(file)
 
 # Convert JSON data to a Hugging Face Dataset
