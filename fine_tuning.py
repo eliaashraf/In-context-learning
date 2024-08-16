@@ -1,5 +1,6 @@
 import json
 from datasets import Dataset
+# Import components from transformers that are needed for fine-tuning LLMs
 from transformers import GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArguments, DataCollatorForLanguageModeling
 
 # Load the dataset from JSON file
@@ -36,7 +37,7 @@ tokenized_dataset = dataset.map(preprocess_function, batched=True)
 # Define training arguments with updated evaluation_strategy
 training_args = TrainingArguments(
     output_dir='./results',          # output directory
-    eval_strategy="epoch",     # evaluate after each epoch
+    eval_strategy="epoch",           # evaluate after each epoch
     learning_rate=2e-5,              # learning rate
     per_device_train_batch_size=2,   # batch size for training
     per_device_eval_batch_size=2,    # batch size for evaluation
@@ -51,7 +52,7 @@ training_args = TrainingArguments(
 # Use a data collator that handles padding
 data_collator = DataCollatorForLanguageModeling(
     tokenizer=tokenizer, 
-    mlm=False,  # We're not doing masked language modeling, set to False
+    mlm=False,                       # Masked language modeling is not being used and hence set to False
 )
 
 # Initialize Trainer
@@ -66,7 +67,7 @@ trainer = Trainer(
 # Train the model
 trainer.train()
 
-# Saving the model and tokenizer
+# Save the model and tokenizer
 model.save_pretrained('./trained_model')
 tokenizer.save_pretrained('./trained_model')
 
