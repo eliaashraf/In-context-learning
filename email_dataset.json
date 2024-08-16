@@ -1,103 +1,102 @@
 [
-    {
-      "email": "Hi Team,\n\nThe new design proposal includes an open floor plan and larger windows to improve natural lighting. We also plan to use eco-friendly materials for sustainability.\n\nRegards, Sam",
-      "keywords": "open floor plan, larger windows, natural lighting, eco-friendly materials, sustainability"
-    },
-    {
-      "email": "Dear All,\n\nThe updated blueprints feature advanced insulation techniques and a green roof. We are also installing energy-efficient HVAC systems to reduce operational costs.\n\nBest, Jamie",
-      "keywords": "advanced insulation, green roof, energy-efficient HVAC, reduce operational costs"
-    },
-    {
-      "email": "Hello Team,\n\nThe project's new phase involves integrating smart building technologies and high-performance windows to enhance energy efficiency.\n\nThanks, Alex",
-      "keywords": "smart building technologies, high-performance windows, energy efficiency"
-    },
-    {
-      "email": "Hi Everyone,\n\nWe are excited to announce that the renovation will include a modern facade and upgraded structural supports. The materials used will be sourced locally to support regional businesses.\n\nCheers, Taylor",
-      "keywords": "modern facade, upgraded structural supports, locally sourced materials, support regional businesses"
-    },
-    {
-      "email": "Dear Team,\n\nThe latest changes involve adding a rooftop garden and improving the building's thermal performance with new coatings. We aim to achieve a higher LEED certification.\n\nRegards, Jordan",
-      "keywords": "rooftop garden, thermal performance, new coatings, higher LEED certification"
-    },
-    {
-      "email": "Hello All,\n\nWe have decided to include more sustainable landscaping and rainwater harvesting systems in the new project to enhance environmental benefits.\n\nBest, Morgan",
-      "keywords": "sustainable landscaping, rainwater harvesting systems, environmental benefits"
-    },
-    {
-      "email": "Hi All,\n\nThe new design will feature improved acoustics and a multi-purpose atrium to accommodate different types of events. We are also adding energy-saving LED lighting throughout the building.\n\nRegards, Casey",
-      "keywords": "improved acoustics, multi-purpose atrium, energy-saving LED lighting"
-    },
-    {
-      "email": "Dear Team,\n\nThe upcoming development includes a comprehensive waste management system and enhanced security features for better safety and efficiency.\n\nThanks, Riley",
-      "keywords": "waste management system, enhanced security features, safety, efficiency"
-    },
-    {
-      "email": "Hello Everyone,\n\nWe are incorporating a new heating and cooling system that uses renewable energy sources. The building will also have high-efficiency insulation to minimize energy consumption.\n\nBest, Quinn",
-      "keywords": "renewable energy sources, high-efficiency insulation, minimize energy consumption"
-    },
-    {
-      "email": "Hi Team,\n\nThe updated plans include a modular design that allows for flexible use of space and enhanced accessibility features for people with disabilities.\n\nRegards, Avery",
-      "keywords": "modular design, flexible use of space, enhanced accessibility features, disabilities"
-    },
-    {
-      "email": "Dear Colleagues,\n\nWe are adding a new atrium and several breakout rooms to improve collaborative workspaces. The design also includes advanced ventilation systems.\n\nBest regards, Jordan",
-      "keywords": "atrium, breakout rooms, collaborative workspaces, advanced ventilation systems"
-    },
-    {
-      "email": "Hello Team,\n\nOur renovation plans now include energy-efficient windows and a more effective heating system to enhance comfort and reduce costs.\n\nThanks, Sam",
-      "keywords": "energy-efficient windows, effective heating system, enhance comfort, reduce costs"
-    },
-    {
-      "email": "Hi Everyone,\n\nWe will be integrating a new digital signage system and enhancing the building's exterior with sustainable materials to improve aesthetics and functionality.\n\nBest, Taylor",
-      "keywords": "digital signage system, sustainable materials, building exterior, aesthetics, functionality"
-    },
-    {
-      "email": "Dear Team,\n\nThe project now includes a state-of-the-art gym facility and more conference rooms to accommodate a growing number of staff.\n\nCheers, Jamie",
-      "keywords": "state-of-the-art gym, conference rooms, accommodate staff"
-    },
-    {
-      "email": "Hello All,\n\nThe new design features a green wall and advanced waste reduction strategies to promote eco-friendly practices.\n\nRegards, Morgan",
-      "keywords": "green wall, advanced waste reduction, eco-friendly practices"
-    },
-    {
-      "email": "Hi Team,\n\nWe are excited about the new plans that include smart lighting and an improved roof structure to enhance energy savings and durability.\n\nBest, Alex",
-      "keywords": "smart lighting, improved roof structure, energy savings, durability"
-    },
-    {
-      "email": "Dear Colleagues,\n\nThe redesign includes a new cafeteria and a rooftop terrace for better employee amenities and relaxation areas.\n\nBest, Casey",
-      "keywords": "cafeteria, rooftop terrace, employee amenities, relaxation areas"
-    },
-    {
-      "email": "Hello Team,\n\nOur upcoming development will have improved acoustic panels and better airflow systems to enhance overall comfort and productivity.\n\nThanks, Riley",
-      "keywords": "acoustic panels, airflow systems, overall comfort, productivity"
-    },
-    {
-      "email": "Hi Everyone,\n\nWe are implementing a new energy management system and adding outdoor seating areas to promote relaxation and outdoor activities.\n\nRegards, Quinn",
-      "keywords": "energy management system, outdoor seating areas, relaxation, outdoor activities"
-    },
-    {
-      "email": "Dear Team,\n\nThe latest updates include an upgraded security system and new meeting rooms equipped with modern technology for better communication.\n\nBest, Avery",
-      "keywords": "upgraded security system, meeting rooms, modern technology, better communication"
-    },
-    {
-      "email": "Hello All,\n\nThe new plans feature a dedicated wellness center and improved emergency response systems to support health and safety.\n\nBest, Jamie",
-      "keywords": "wellness center, emergency response systems, health, safety"
-    },
-    {
-      "email": "Hi Team,\n\nThe project now includes a more efficient water recycling system and enhanced insulation to improve sustainability and energy efficiency.\n\nRegards, Sam",
-      "keywords": "water recycling system, enhanced insulation, sustainability, energy efficiency"
-    },
-    {
-      "email": "Dear Colleagues,\n\nWe are excited to announce the addition of a green atrium and new high-efficiency HVAC units to improve both environmental impact and comfort.\n\nBest, Morgan",
-      "keywords": "green atrium, high-efficiency HVAC units, environmental impact, comfort"
-    },
-    {
-      "email": "Hello Team,\n\nThe latest renovation includes a new multi-purpose hall and advanced noise-cancellation features to accommodate various events and enhance privacy.\n\nThanks, Taylor",
-      "keywords": "multi-purpose hall, noise-cancellation features, various events, privacy"
-    },
-    {
-      "email": "Hi Everyone,\n\nWe will be adding a rooftop solar array and better insulation to enhance energy independence and reduce heating costs.\n\nBest, Alex",
-      "keywords": "rooftop solar array, better insulation, energy independence, reduce heating costs"
-    }
-  ]
-  
+  {
+      "email": "Hi Team,\n\nAs we move forward with the microservices architecture, please ensure that the API gateway is set up for centralized routing and that each service is independently deployable.\n\nBest regards, Jamie",
+      "keywords": "microservices architecture, API gateway, centralized routing, independently deployable"
+  },
+  {
+      "email": "Dear Colleagues,\n\nGiven the system's scalability requirements, we should adopt a CQRS pattern for separating read and write operations. This will help manage high traffic more effectively.\n\nThanks, Morgan",
+      "keywords": "scalability, CQRS pattern, separate read and write operations, manage high traffic"
+  },
+  {
+      "email": "Hello Team,\n\nIn light of the recent security review, we must implement OAuth 2.0 for authentication across all microservices to enhance security and ensure compliance.\n\nCheers, Riley",
+      "keywords": "security review, OAuth 2.0, authentication, microservices, enhance security, compliance"
+  },
+  {
+      "email": "Hi Everyone,\n\nAs we transition to a cloud-based infrastructure, it's crucial to design for fault tolerance and to use autoscaling groups to handle variable workloads.\n\nBest, Sam",
+      "keywords": "cloud-based infrastructure, fault tolerance, autoscaling, variable workloads"
+  },
+  {
+      "email": "Dear Team,\n\nPlease remember that our layered architecture must enforce strict separation between the presentation, business logic, and data access layers to maintain modularity and testability.\n\nRegards, Alex",
+      "keywords": "layered architecture, separation, presentation layer, business logic layer, data access layer, modularity, testability"
+  },
+  {
+      "email": "Hello Team,\n\nThe new system design should incorporate event-driven architecture to handle asynchronous data processing efficiently.\n\nBest regards, Jamie",
+      "keywords": "event-driven architecture, asynchronous data processing, system design"
+  },
+  {
+      "email": "Hi All,\n\nConsidering our need for high availability, we should implement database replication and failover mechanisms.\n\nCheers, Riley",
+      "keywords": "high availability, database replication, failover mechanisms"
+  },
+  {
+      "email": "Dear Colleagues,\n\nTo improve system performance, caching frequently accessed data using Redis is recommended.\n\nBest, Sam",
+      "keywords": "system performance, caching, Redis, frequently accessed data"
+  },
+  {
+      "email": "Hi Everyone,\n\nThe deployment pipeline must include continuous integration and continuous delivery (CI/CD) practices to streamline updates.\n\nThanks, Morgan",
+      "keywords": "deployment pipeline, continuous integration, continuous delivery, CI/CD"
+  },
+  {
+      "email": "Dear Team,\n\nWhen implementing the service-oriented architecture, ensure each service is loosely coupled and follows the single responsibility principle.\n\nRegards, Alex",
+      "keywords": "service-oriented architecture, loosely coupled, single responsibility principle"
+  },
+  {
+      "email": "Hello Team,\n\nGiven our focus on security, all data transmissions should be encrypted using TLS.\n\nBest regards, Jamie",
+      "keywords": "security, data transmission, encryption, TLS"
+  },
+  {
+      "email": "Hi Team,\n\nTo meet our low-latency requirements, we should consider using edge computing for processing data closer to the source.\n\nThanks, Morgan",
+      "keywords": "low-latency, edge computing, data processing, source"
+  },
+  {
+      "email": "Dear Colleagues,\n\nTo support our scalability needs, we must implement horizontal scaling for our application servers.\n\nCheers, Riley",
+      "keywords": "scalability, horizontal scaling, application servers"
+  },
+  {
+      "email": "Hi Everyone,\n\nThe new architecture should include API versioning to ensure backward compatibility.\n\nBest, Sam",
+      "keywords": "architecture, API versioning, backward compatibility"
+  },
+  {
+      "email": "Dear Team,\n\nFor better observability, implement centralized logging and monitoring across all services.\n\nRegards, Alex",
+      "keywords": "observability, centralized logging, monitoring, services"
+  },
+  {
+      "email": "Hello Team,\n\nIn our distributed system, we should use message queuing to handle inter-service communication reliably.\n\nBest regards, Jamie",
+      "keywords": "distributed system, message queuing, inter-service communication, reliability"
+  },
+  {
+      "email": "Hi All,\n\nTo improve the user experience, implement responsive design principles across all user interfaces.\n\nCheers, Riley",
+      "keywords": "user experience, responsive design, user interfaces"
+  },
+  {
+      "email": "Dear Colleagues,\n\nTo enhance data integrity, ensure that all transactions are ACID-compliant.\n\nBest, Sam",
+      "keywords": "data integrity, transactions, ACID-compliance"
+  },
+  {
+      "email": "Hi Everyone,\n\nPlease ensure that our microservices architecture follows the twelve-factor app methodology for cloud-native applications.\n\nThanks, Morgan",
+      "keywords": "microservices architecture, twelve-factor app, cloud-native applications"
+  },
+  {
+      "email": "Dear Team,\n\nGiven the need for data privacy, implement GDPR-compliant data handling processes.\n\nRegards, Alex",
+      "keywords": "data privacy, GDPR-compliance, data handling processes"
+  },
+  {
+      "email": "I'm concerned about the system's resilience. We should implement circuit breakers to prevent cascading failures.",
+      "keywords": "resilience, circuit breaker, fault tolerance, system reliability"
+  },
+  {
+      "email": "The monolithic architecture is becoming a bottleneck. We need to discuss microservices as an alternative.",
+      "keywords": "monolithic architecture, microservices, scalability, maintainability"
+  },
+  {
+      "email": "Data security is a top priority. We need to implement strong encryption for data at rest and in transit.",
+      "keywords": "data security, encryption, data at rest, data in transit"
+  },
+  {
+      "email": "The new feature requires real-time data processing. Let's explore using Apache Kafka for a reliable messaging system.",
+      "keywords": "real-time processing, Apache Kafka, messaging system, data streaming"
+  },
+  {
+      "email": "We're facing performance issues with the search component. The indexing process seems to be a bottleneck. We should consider distributed indexing or caching.",
+      "keywords": "performance, search, indexing, bottleneck, distributed system, caching"
+  }
+]
